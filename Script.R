@@ -22,7 +22,7 @@ treeDesiredSpecies <- drop.tip(treeVascularPlants,
                                setdiff(treeVascularPlants$tip.label, 
                                        DesiredSpecies))
 
-## Adding New Species
+## Adding New Species_5 species
 
 
 
